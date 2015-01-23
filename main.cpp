@@ -8,6 +8,8 @@ Testing 2
 This fixes #1
 */
 
+/* Test */
+
 int main(int argc, char *argv[])
 {
     QApplication app(argc, argv);
