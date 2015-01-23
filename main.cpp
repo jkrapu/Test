@@ -5,6 +5,7 @@
 /* 
 Testing testing...
 Testing 2
+This fixes #1
 */
 
 int main(int argc, char *argv[])
